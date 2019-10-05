@@ -25,11 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/Q86yNbSHSBbcxKciz7/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2019] [Carlos Mendoza]
